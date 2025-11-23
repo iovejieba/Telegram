@@ -7,7 +7,7 @@ import os
 telegram_bot_token = os.environ.get('TG_TOKEN')
 telegram_chat_id = os.environ.get('TG_CHAT_ID')
 # RSS订阅的URL
-rss_feed_url = 'https://www.141jav.com/feeds/'
+rss_feed_url = 'https://rsshub.asailor.org/141jav/popular/30'
 
 
 
